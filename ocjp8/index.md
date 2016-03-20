@@ -1,18 +1,7 @@
 ---
 layout: default
 ---
-<!-- MarkdownTOC -->
 
-- [TOPICS][topics]
-	- [Language Enhancements][language-enhancements]
-	- [Concurrency][concurrency]
-	- [Localization][localization]
-	- [Java File I/O (NIO.2)][java-file-io-nio2]
-	- [Lambda][lambda]
-	- [Java Collections][java-collections]
-	- [Java Streams][java-streams]
-
-<!-- /MarkdownTOC -->
 
 Notes Upgrade to Java SE 8 Programmer ( Java SE 6 and all prior versions) [IZO-813](https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-813)
 
