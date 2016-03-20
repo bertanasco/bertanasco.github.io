@@ -6,7 +6,6 @@ layout: default
 Notes Upgrade to Java SE 8 Programmer ( Java SE 6 and all prior versions) [IZO-813](https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-813)
 
 ### Table of Contents
-<!-- MarkdownTOC -->
 
 - [TOPICS](#topics)
 	- [Language Enhancements](#language-enhancements)
@@ -17,7 +16,6 @@ Notes Upgrade to Java SE 8 Programmer ( Java SE 6 and all prior versions) [IZO-8
 	- [Java Collections](#java-collections)
 	- [Java Streams](#java-streams)
 
-<!-- /MarkdownTOC -->
 
 ## TOPICS
 
