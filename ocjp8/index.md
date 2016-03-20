@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  "OCJP 8"
-date:   2016-03-20 11:18:05 +0800
-categories: 
+layout: default
 ---
 
+Notes Upgrade to Java SE 8 Programmer ( Java SE 6 and all prior versions) [IZO-813](https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-813)
+
 ## TOPICS
+
 
 ### Language Enhancements
 
@@ -55,7 +55,7 @@ categories:
 
 ### Java Streams
 
-1.Describe the Stream interface and pipelines; create a stream by using the Arrays.stream() and  IntStream.range() methods; identify the lambda operations that are lazy
+1. Describe the Stream interface and pipelines; create a stream by using the Arrays.stream() and  IntStream.range() methods; identify the lambda operations that are lazy
 2. Develop code that uses parallel streams, including decomposition operation and reduction operation in streams
 
 
