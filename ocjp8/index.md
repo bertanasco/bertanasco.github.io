@@ -8,13 +8,13 @@ Notes Upgrade to Java SE 8 Programmer ( Java SE 6 and all prior versions) [IZO-8
 ### Table of Contents
 
 - [TOPICS](#topics)
-	- [Language Enhancements](#language-enhancements)
-	- [Concurrency](#concurrency)
-	- [Localization](#localization)
-	- [Java File I/O (NIO.2)](#java-file-io-nio2)
-	- [Lambda](#lambda)
-	- [Java Collections](#java-collections)
-	- [Java Streams](#java-streams)
+	- [Language Enhancements](#)
+	- [Concurrency](#)
+	- [Localization](#)
+	- [Java File I/O (NIO.2)](#)
+	- [Lambda](#)
+	- [Java Collections](#)
+	- [Java Streams](#)
 
 
 ## TOPICS
