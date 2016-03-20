@@ -1,19 +1,33 @@
+
 ---
 layout: default
 ---
+<!-- MarkdownTOC -->
+
+- [TOPICS][topics]
+	- [Language Enhancements][language-enhancements]
+	- [Concurrency][concurrency]
+	- [Localization][localization]
+	- [Java File I/O (NIO.2)][java-file-io-nio2]
+	- [Lambda][lambda]
+	- [Java Collections][java-collections]
+	- [Java Streams][java-streams]
+
+<!-- /MarkdownTOC -->
 
 Notes Upgrade to Java SE 8 Programmer ( Java SE 6 and all prior versions) [IZO-813](https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-813)
 
-## TOPICS
-
-
-### Language Enhancements
+<a name="topics"></a>
+# TOPICS
+<a name="language-enhancements"></a>
+### Language Enhancements 
 
 1. Develop code that uses String objects in the switch statement, binary literals, and numeric literals, including underscores in literals
 2. Develop code that uses try-with-resources statements, including using classes that implement the AutoCloseable interface
 3. Develop code that handles multiple Exception types in a single catch block
 4. Use static and default methods of an interface including inheritance rules for a default method
 
+<a name="concurrency"></a>
 ### Concurrency
 
 1. Use collections from the java.util.concurrent package with a focus on the advantages over and differences from the traditional java.util collections
@@ -21,6 +35,7 @@ Notes Upgrade to Java SE 8 Programmer ( Java SE 6 and all prior versions) [IZO-8
 3. Use Executor, ExecutorService, Executors, Callable, and Future to execute tasks using thread pools
 4. Use the parallel Fork/Join Framework
 
+<a name="localization"></a>
 ### Localization
 
 1. Describe the advantages of localizing an application and developing code that defines, reads, and sets the locale with a Locale object
@@ -29,6 +44,7 @@ Notes Upgrade to Java SE 8 Programmer ( Java SE 6 and all prior versions) [IZO-8
 4. Format dates, numbers, and currency values for localization with the NumberFormat and DateFormat classes, including number and date format patterns
 5. Work with dates and times across time zones and manage changes resulting from daylight savings
 
+<a name="java-file-io-nio2"></a>
 ### Java File I/O (NIO.2)
 
 1. Operate on file and directory paths by using the Path class
@@ -37,6 +53,7 @@ Notes Upgrade to Java SE 8 Programmer ( Java SE 6 and all prior versions) [IZO-8
 4. Find a file by using the PathMatcher interface, and use Java SE 8 I/O improvements, including Files.find(), Files.walk(), and lines() methods
 5. Observe the changes in a directory by using the WatchService interface
 
+<a name="lambda"></a>
 ### Lambda
 
 1. Define and write functional interfaces and describe the interfaces of the java.util.function package
@@ -44,6 +61,7 @@ Notes Upgrade to Java SE 8 Programmer ( Java SE 6 and all prior versions) [IZO-8
 3. Develop code that uses the built-in interfaces included in the java.util.function package, such as Function, Consumer, Supplier, UnaryOperator, Predicate, and Optional APIs, including the primitive and binary variations of the interfaces
 4. Develop code that uses a method reference, including refactoring a lambda expression to a method reference
 
+<a name="java-collections"></a>
 ### Java Collections
 
 1. Develop code that uses diamond with generic declarations
@@ -53,6 +71,7 @@ Notes Upgrade to Java SE 8 Programmer ( Java SE 6 and all prior versions) [IZO-8
 5. Develop code that uses Java SE 8 collection improvements, including the Collection.removeIf(), List.replaceAll(), Map.computeIfAbsent(), and Map.computeIfPresent() methods
 6. Develop  code that uses the merge(), flatMap(), and map() methods on Java Streams
 
+<a name="java-streams"></a>
 ### Java Streams
 
 1. Describe the Stream interface and pipelines; create a stream by using the Arrays.stream() and  IntStream.range() methods; identify the lambda operations that are lazy
