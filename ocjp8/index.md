@@ -6,7 +6,6 @@ Notes Upgrade to Java SE 8 Programmer ( Java SE 6 and all prior versions) [IZO-8
 
 ## TOPICS
 
-
 ### Language Enhancements
 
 1. Develop code that uses String objects in the switch statement, binary literals, and numeric literals, including underscores in literals
